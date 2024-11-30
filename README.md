@@ -32,5 +32,5 @@ Este projeto foi inspirado nas aulas do professor **Rodolfo Mori da DevClub**, q
 
 ## Autores
 
-- [@octokatherine](https://www.github.com/Carla-coder)
+- [@Carla-coder](https://www.github.com/Carla-coder)
 
